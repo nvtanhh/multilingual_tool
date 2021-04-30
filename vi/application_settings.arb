@@ -1,0 +1,102 @@
+{
+    "videos": "Video.",
+    "@videos": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "link_previews": "Xem trước liên kết",
+    "@link_previews": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "hashtags_display": "Trưng bày",
+    "@hashtags_display": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "hashtags": "Hashtags.",
+    "@hashtags": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "videos_autoplay": "Tự chạy",
+    "@videos_autoplay": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "link_previews_show": "Chỉ",
+    "@link_previews_show": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "videos_autoplay_always": "Luôn luôn",
+    "@videos_autoplay_always": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "videos_autoplay_wifi_only": "Chỉ wifi",
+    "@videos_autoplay_wifi_only": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "videos_autoplay_never": "Không bao giờ",
+    "@videos_autoplay_never": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "link_previews_autoplay_always": "Luôn luôn",
+    "@link_previews_autoplay_always": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "link_previews_autoplay_wifi_only": "Chỉ wifi",
+    "@link_previews_autoplay_wifi_only": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "link_previews_autoplay_never": "Không bao giờ",
+    "@link_previews_autoplay_never": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "videos_sound": "Âm thanh",
+    "@videos_sound": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "tap_to_change": "(Nhấn để thay đổi)",
+    "@tap_to_change": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "videos_sound_enabled": "Đã bật",
+    "@videos_sound_enabled": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "videos_sound_disabled": "Tàn tật",
+    "@videos_sound_disabled": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "hashtags_display_traditional": "Truyên thông",
+    "@hashtags_display_traditional": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "hashtags_display_disco": "Ã � ¸ ¸â €",
+    "@hashtags_display_disco": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "comment_sort_newest_first": "Mới nhất đầu tiên",
+    "@comment_sort_newest_first": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "comment_sort_oldest_first": "Cũ nhất trước nhất",
+    "@comment_sort_oldest_first": {
+        "type": "text",
+        "placeholders": {}
+    }
+}
