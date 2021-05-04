@@ -1,0 +1,371 @@
+{
+    "filters_title": "Bộ lọc kiểm duyệt.",
+    "@filters_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "filters_reset": "Cài lại",
+    "@filters_reset": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "filters_verified": "Đã xác minh",
+    "@filters_verified": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "filters_apply": "Áp dụng các bộ lọc",
+    "@filters_apply": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "filters_type": "Kiểu",
+    "@filters_type": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "filters_status": "Trạng thái",
+    "@filters_status": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "filters_other": "Khác",
+    "@filters_other": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "actions_review": "Ôn tập",
+    "@actions_review": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "actions_chat_with_team": "Trò chuyện với đội",
+    "@actions_chat_with_team": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "update_category_title": "Cập nhật loại",
+    "@update_category_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "update_category_save": "Tiết kiệm",
+    "@update_category_save": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "update_description_save": "Tiết kiệm",
+    "@update_description_save": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "update_description_title": "Chỉnh sửa Mô tả",
+    "@update_description_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "update_description_report_desc": "Báo cáo mô tả",
+    "@update_description_report_desc": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "update_description_report_hint_text": "ví dụ. Mục báo cáo đã được tìm thấy để ...",
+    "@update_description_report_hint_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "update_status_save": "Tiết kiệm",
+    "@update_status_save": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "update_status_title": "Cập nhật trạng thái",
+    "@update_status_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "community_review_title": "Xem lại đối tượng kiểm duyệt",
+    "@community_review_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "moderated_object_title": "Vật",
+    "@moderated_object_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "moderated_object_status": "Trạng thái",
+    "@moderated_object_status": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "moderated_object_reports_count": "Báo cáo số lượng",
+    "@moderated_object_reports_count": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "moderated_object_verified_by_staff": "Được xác minh bởi nhân viên Okuna",
+    "@moderated_object_verified_by_staff": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "moderated_object_verified": "Đã xác minh",
+    "@moderated_object_verified": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "moderated_object_true_text": "Thật",
+    "@moderated_object_true_text": {
+        "description": "Eg. Moderated object verified by staff? true / false",
+        "type": "text",
+        "placeholders": {}
+    },
+    "moderated_object_false_text": "Sai",
+    "@moderated_object_false_text": {
+        "description": "Eg. Moderated object verified by staff? true / false",
+        "type": "text",
+        "placeholders": {}
+    },
+    "community_review_object": "Vật",
+    "@community_review_object": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "community_review_approve": "Phê duyệt.",
+    "@community_review_approve": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "community_review_reject": "Từ chối",
+    "@community_review_reject": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "community_review_item_verified": "Mục này đã được xác minh",
+    "@community_review_item_verified": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "global_review_title": "Xem lại đối tượng kiểm duyệt",
+    "@global_review_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "global_review_object_text": "Vật",
+    "@global_review_object_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "global_review_verify_text": "Kiểm chứng",
+    "@global_review_verify_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "global_review_unverify_text": "Unverify.",
+    "@global_review_unverify_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_title": "Nộp báo cáo",
+    "@confirm_report_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_provide_details": "Bạn có thể cung cấp thêm chi tiết có thể phù hợp với báo cáo?",
+    "@confirm_report_provide_details": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_provide_optional_info": "(Không bắt buộc)",
+    "@confirm_report_provide_optional_info": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_provide_optional_hint_text": "Nhập ở đây...",
+    "@confirm_report_provide_optional_hint_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_provide_happen_next": "Đây là những gì sẽ xảy ra tiếp theo:",
+    "@confirm_report_provide_happen_next": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_provide_happen_next_desc": "- Báo cáo của bạn sẽ được gửi nặc danh.  - Nếu bạn đang báo cáo một bài đăng hoặc bình luận, báo cáo sẽ được gửi đến nhân viên Okuna và người điều hành cộng đồng nếu có thể áp dụng và bài đăng sẽ được ẩn khỏi nguồn cấp dữ liệu của bạn.  - Nếu bạn đang báo cáo tài khoản hoặc cộng đồng, nó sẽ được gửi đến nhân viên Okuna.  - Chúng tôi sẽ xem xét nó, nếu được phê duyệt, nội dung sẽ bị xóa và các hình phạt được giao cho những người liên quan từ việc đình chỉ tạm thời để xóa tài khoản tùy thuộc vào mức độ nghiêm trọng của sự vi phạm.  - Nếu báo cáo được tìm thấy trong nỗ lực làm hỏng danh tiếng của một thành viên hoặc cộng đồng khác trong nền tảng mà không vi phạm lý do đã nêu, hình phạt sẽ được áp dụng cho bạn.",
+    "@confirm_report_provide_happen_next_desc": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_submit": "Tôi hiểu, gửi.",
+    "@confirm_report_submit": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_user_reported": "Người dùng báo cáo",
+    "@confirm_report_user_reported": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_community_reported": "Cộng đồng báo cáo",
+    "@confirm_report_community_reported": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_post_reported": "Bưu điện báo cáo",
+    "@confirm_report_post_reported": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_post_comment_reported": "Đăng bình luận được báo cáo",
+    "@confirm_report_post_comment_reported": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "confirm_report_item_reported": "Mục báo cáo",
+    "@confirm_report_item_reported": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "community_moderated_objects": "Đối tượng kiểm duyệt cộng đồng",
+    "@community_moderated_objects": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "globally_moderated_objects": "Đối tượng kiểm duyệt toàn cầu",
+    "@globally_moderated_objects": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "tap_to_retry": "Nhấn để thử lại các mục tải",
+    "@tap_to_retry": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "report_post_text": "Báo cáo về bài đăng",
+    "@report_post_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "you_have_reported_post_text": "Bạn đã báo cáo bài viết này",
+    "@you_have_reported_post_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "report_account_text": "Tài khoản báo cáo",
+    "@report_account_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "you_have_reported_account_text": "Bạn đã báo cáo tài khoản này",
+    "@you_have_reported_account_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "report_hashtag_text": "Báo cáo hashtag.",
+    "@report_hashtag_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "you_have_reported_hashtag_text": "Bạn đã báo cáo hashtag này",
+    "@you_have_reported_hashtag_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "report_community_text": "Báo cáo cộng đồng.",
+    "@report_community_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "you_have_reported_community_text": "Bạn đã báo cáo cộng đồng này",
+    "@you_have_reported_community_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "report_comment_text": "Báo cáo bình luận",
+    "@report_comment_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "you_have_reported_comment_text": "Bạn đã báo cáo bình luận này",
+    "@you_have_reported_comment_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "description_text": "Sự miêu tả",
+    "@description_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "no_description_text": "Không có mô tả",
+    "@no_description_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "category_text": "thể loại",
+    "@category_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "reporter_text": "Phóng viên",
+    "@reporter_text": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "reports_preview_title": "Báo cáo",
+    "@reports_preview_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "reports_preview_resource_reports": "báo cáo",
+    "@reports_preview_resource_reports": {
+        "description": "Usage: See all reports..",
+        "type": "text",
+        "placeholders": {}
+    },
+    "reports_see_all": "Xem tất cả {resourceCount} {resourceName}",
+    "@reports_see_all": {
+        "description": "Usage: See all 4 reports.",
+        "type": "text",
+        "placeholders": {
+            "resourceCount": {},
+            "resourceName": {}
+        }
+    },
+    "object_status_title": "Trạng thái",
+    "@object_status_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "my_moderation_tasks_title": "Nhiệm vụ kiểm duyệt đang chờ xử lý",
+    "@my_moderation_tasks_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "pending_moderation_tasks_singular": "Đặc nhiệm đang chờ xử lý",
+    "@pending_moderation_tasks_singular": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "pending_moderation_tasks_plural": "nhiệm vụ kiểm duyệt đang chờ xử lý",
+    "@pending_moderation_tasks_plural": {
+        "description": "Eg. No pending moderation tasks found",
+        "type": "text",
+        "placeholders": {}
+    },
+    "my_moderation_penalties_title": "Hình phạt điều độ.",
+    "@my_moderation_penalties_title": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "my_moderation_penalties_resouce_singular": "phạt chừng",
+    "@my_moderation_penalties_resouce_singular": {
+        "type": "text",
+        "placeholders": {}
+    },
+    "my_moderation_penalties_resource_plural": "Hình phạt điều độ.",
+    "@my_moderation_penalties_resource_plural": {
+        "description": "See all moderation penalties, No moderation penalties found etc..",
+        "type": "text",
+        "placeholders": {}
+    }
+}
