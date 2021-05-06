@@ -4,6 +4,8 @@ import json
 from pathlib import Path
 from google_trans_new import google_translator
 import re
+import threading
+import multiprocessing
 
 translator = google_translator()
 
@@ -16,15 +18,24 @@ def startTranslate(srcFolder, desFolder, srcLang, desLang):
     for file in glob.glob(srcFolder+"/*.arb"):
         files.append(file)
 
+    threads = []
     for file in files:
-        with open(file, encoding="utf8") as json_file:
-            data = json.load(json_file)
-            for key, value in data.items():
-                if key.find('@') == -1:
-                    data[key] = _translateAndProcess(
-                        data[key], srcLang, desLang)
-            with open(desFolder+'/'+file[file.rindex('\\')+1:], 'w+',  encoding='utf8') as outfile:
-                json.dump(data, outfile, ensure_ascii=False, indent=4,)
+        threads.append(multiprocessing.Process(
+            target=_translateFile, args=(file, desFolder, srcLang, desLang)))
+    for thread in threads:
+        thread.start()
+
+
+def _translateFile(file, desFolder, srcLang, desLang):
+    with open(file, encoding="utf8") as json_file:
+        data = json.load(json_file)
+        for key, value in data.items():
+            if key.find('@') == -1:
+                data[key] = _translateAndProcess(
+                    data[key], srcLang, desLang)
+                print(data[key])
+        with open(desFolder+'/'+file[file.rindex('\\')+1:], 'w+',  encoding='utf8') as outfile:
+            json.dump(data, outfile, ensure_ascii=False, indent=4,)
 
 
 def _translateAndProcess(text, srcLang, desLang):
