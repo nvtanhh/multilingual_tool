@@ -17,3 +17,5 @@ Clone this repo and run:
 ```sh
 python main.py ./en ./vi en vi
 ```
+
+## Happy coding 🚀
