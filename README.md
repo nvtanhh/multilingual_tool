@@ -1,5 +1,5 @@
-# arb_translator
-A tool to translate arb file to another language
+# multilingual_tool
+A tool help to translate your language file (.json/.arb) to another language just in one command
 ## Usage
 You need to be installed python before.
 Clone this repo and run:
