@@ -1,4 +1,4 @@
-# multilingual_tool
+# Multilingual_tool
 A tool help to translate your language file (.json/.arb) to another language just in one command
 ## Usage
 You need to be installed python before.
